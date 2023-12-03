@@ -1,0 +1,25 @@
+body{
+    display: flex;
+    justify-content: center;
+    margin-top: 50vh;
+    align-content: center;
+    background-image: url('https://c4.wallpaperflare.com/wallpaper/107/257/76/reflection-4k-full-screen-for-desktop-wallpaper-preview.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 3;
+}
+
+input{
+    padding: 8px 30px;
+    border-radius: 10px;
+    border: 2px solid blue;
+    background-color: silver;
+}
+
+h1 {
+    color: white;
+}
+
+h2{
+    color: white;
+}
